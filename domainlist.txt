@@ -109,3 +109,4 @@ plugins.itsm-us1.comodo.com
 rmm-api.itsm-us1.comodo.com
 samkramankra-msp.itsm-us1.comodo.com
 xp3mando.com
+talentifier.com
